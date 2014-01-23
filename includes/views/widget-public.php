@@ -33,5 +33,5 @@
 			</div>
 		<?php endif ?>
 	</div>
-	<div class="quotery-quote-widget-copy"><a href="http://www.quotery.com/?utm_source=wp-widget" target="_blank"><?php _e('Quotes via', $this->plugin_slug) ?> Quotery.com</a></div>
+	<div class="quotery-quote-widget-copy"><?php _e('Quotes via', $this->plugin_slug) ?> <a href="http://www.quotery.com/?utm_source=wp-widget" target="_blank">Quotery.com</a></div>
 </div>
