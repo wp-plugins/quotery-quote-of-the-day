@@ -3,9 +3,9 @@
  * Fired when the plugin is uninstalled.
  *
  * @package   Plugin_Name
- * @author    Quotery <tech@quotery.com>
+ * @author    Quotery <contact@quotery.com>
  * @license   GPL-2.0+
- * @link      http://quotery.com
+ * @link      http://www.quotery.com
  * @copyright 2014 Quotery
  */
 

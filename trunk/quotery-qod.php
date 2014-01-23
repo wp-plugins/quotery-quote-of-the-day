@@ -2,12 +2,12 @@
 /**
  *
  * @wordpress-plugin
- * Plugin Name: 	  Quotery: Quote of the day
- * Plugin URI:
- * Description:       Show a quote of the day on your blog.
- * Version:           1.0.0
+ * Plugin Name:       Quotery: Quote of the day
+ * Plugin URI:        http://www.quotery.com
+ * Description:       Displays a "quote of the day" on your site. Features a beautiful design, social sharing, category selection, author photos & more.
+ * Version:           1.0.1
  * Author:            Quotery
- * Author URI:        http://quotery.com
+ * Author URI:        http://www.quotery.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */

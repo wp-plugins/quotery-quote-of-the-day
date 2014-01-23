@@ -1,9 +1,9 @@
 === Quotery: Quote of The Day ===
-Contributors: Aaron Harun,
-Tags: quotes, quote of the day, quotery, widget, sidebar, quotations, quote, daily quote
+Contributors: Aaron Harun, kayl
+Tags: daily quote, quotations, quote, quote of the day, quotery, quotes, sidebar, widget
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,13 +22,21 @@ In other words, we pay attention to the details, which means you can be confiden
 = Features =
 
 *   **Ease-of-Use:** Simply drag and drop the widget where you want it to show and a new quote will appear every day.
+
 *   **Custom Title:** Choose a name for the widget to match your preference.
+
 *   **Category Selection:** With over 400 different topics to choose from, there’s something for everyone here. Own a finance blog? Show quotes about money. A relationship magazine? Quotes about dating, marriage, or love should have you covered. A forum for students? Education, teaching, learning, and college quotes will work wonderfully. Or maybe you’re having a hard time deciding on just one topic? Not a problem, just show them all.
+
 *   **Beautiful Design:** We know how important it is to have a clean, well-designed website. Our daily quote widget will complement your theme’s aesthetics, rather than sticking out like an ugly, sore thumb.
+
 *   **Color Options:** Choose between dark, light, or orange.
+
 *   **Author Display:** A photograph of the author, along with the time period in which they lived, can be enabled/disabled.
-*   **Social Sharing:** Give your readers the opportunity to share the quotes on Facebook, Twitter, Google+, Pinterest, and/or *   Tumblr with optional social sharing buttons.
+
+*   **Social Sharing:** Give your readers the opportunity to share the quotes on Facebook, Twitter, Google+, Pinterest, and Tumblr with optional social sharing buttons.
+
 *   **Thousands of Quotes:** With one of the world’s largest collections of quotes, you’ll never have to worry about running out of fresh content.
+
 *   **And More:** We’re always open to feedback and suggestions. Have an idea that you’d like to see implemented? Let us know!
 
 
@@ -64,6 +72,10 @@ In other words, we pay attention to the details, which means you can be confiden
 2. The options for the Quote of the Day widget.
 
 == Changelog ==
+
+= 1.0.1 =
+* Updated text of widget
+* Updated plugin meta text
 
 = 1.0 =
 * Initial Release

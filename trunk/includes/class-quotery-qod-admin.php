@@ -4,7 +4,7 @@
  * administrative side of the WordPress site.
  *
  * @package Quotery_Qod_Admin
- * @author  Quotery <tech@quotery.com>
+ * @author  Quotery <contact@quotery.com>
  */
 class Quotery_Qod_Admin
 {

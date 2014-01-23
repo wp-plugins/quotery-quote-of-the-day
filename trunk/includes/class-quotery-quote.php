@@ -3,7 +3,7 @@
  * Plugin Name.
  *
  * @package   Quotery_Quote
- * @author    Quotery <tech@quotery.com>
+ * @author    Quotery <contact@quotery.com>
  * @license   GPL-2.0+
  * @link      http://www.quotery.com
  * @copyright 2014 Quotery
@@ -14,7 +14,7 @@
  * public-facing side of the WordPress site.
  *
  * @package Quotery_Quote
- * @author  Quotery <tech@quotery.com>
+ * @author  Quotery <contact@quotery.com>
  */
 class Quotery_Quote {
 
