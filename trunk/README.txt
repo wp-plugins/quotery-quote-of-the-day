@@ -3,7 +3,7 @@ Contributors: Aaron Harun, kayl
 Tags: automatic, daily quote, quotations, quote, quote of the day, quotery, quotes, random quote, sidebar, widget
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,10 +13,9 @@ Display a "Quote of the Day" on your site. Features a beautiful design, social s
 
 Everyone loves a bit of wit, wisdom, humor, and inspiration. So why not give your readers what they want with a beautiful display of daily quotes?
 
-[Quotery](http://www.quotery.com “Quips, Quotes & Proverbs“) is one of the world’s largest, most accurate sources of famous quotations. Using our WordPress plugin, publishers can take advantage of our collection and automatically serve quotes on their website.
+[Quotery](http://www.quotery.com "Quips, Quotes & Proverbs") is one of the world’s largest, most accurate sources of famous quotations. Using our WordPress plugin, publishers can take advantage of our collection and automatically serve quotes on their website.
 
-= Features =
-
+**Features:**
 
 *   **Ease-of-Use:** Simply drag and drop the widget where you want it to show and a new quote will appear every day.
 
@@ -70,8 +69,11 @@ Everyone loves a bit of wit, wisdom, humor, and inspiration. So why not give you
 
 == Changelog ==
 
+= 1.0.3 =
+* Fixed design error
+
 = 1.0.2 =
-* Removed excessive source links.
+* Removed excessive source links
 * Updated ReadMe File
 
 = 1.0.1 =
