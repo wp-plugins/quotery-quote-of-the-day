@@ -4,8 +4,8 @@
  * @wordpress-plugin
  * Plugin Name:       Quotery: Quote of the day
  * Plugin URI:        http://www.quotery.com
- * Description:       Displays a "quote of the day" on your site. Features a beautiful design, social sharing, category selection, author photos & more.
- * Version:           1.0.1
+ * Description:       Display a "Quote of the Day" on your site. Features a beautiful design, social sharing, category selection, author photos & more.
+ * Version:           1.0.4
  * Author:            Quotery
  * Author URI:        http://www.quotery.com
  * License:           GPL-2.0+
