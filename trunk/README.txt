@@ -3,7 +3,7 @@ Contributors: Aaron Harun, kayl
 Tags: automatic, daily quote, quotations, quote, quote of the day, quotery, quotes, random quote, sidebar, widget
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,9 @@ Everyone loves a bit of wit, wisdom, humor, and inspiration. So why not give you
 2. Options for the Quote of the Day widget.
 
 == Changelog ==
+
+= 1.0.4 =
+* Fixed code error
 
 = 1.0.3 =
 * Fixed design error
