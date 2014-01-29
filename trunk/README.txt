@@ -1,33 +1,30 @@
 === Quotery: Quote of The Day ===
 Contributors: Aaron Harun, kayl
-Tags: daily quote, quotations, quote, quote of the day, quotery, quotes, sidebar, widget
+Tags: automatic, daily quote, quotations, quote, quote of the day, quotery, quotes, random quote, sidebar, widget
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Quote of The Day widget by Quotery featuring a beautiful design, social sharing, category selection, photos & more.
+Display a "Quote of the Day" on your site. Features a beautiful design, social sharing, category selection, author photos & more.
 
 == Description ==
 
 Everyone loves a bit of wit, wisdom, humor, and inspiration. So why not give your readers what they want with a beautiful display of daily quotes?
 
-Our WordPress plugin does just that. However, being quotation fanatics ourselves, we wanted to develop something that was not only easy to use, but also feature-packed.
-
-[Quotery](http://www.quotery.com "Modern source for quotes.") is an online encyclopedia of quotations, quips, and proverbs. We take pride in providing accurate attributions, relevant information about each quote, author biographies, exclusive picture quotes, and a stunning website design.
-
-In other words, we pay attention to the details, which means you can be confident that our plugin is top-notch.
+[Quotery](http://www.quotery.com “Quips, Quotes & Proverbs“) is one of the world’s largest, most accurate sources of famous quotations. Using our WordPress plugin, publishers can take advantage of our collection and automatically serve quotes on their website.
 
 = Features =
+
 
 *   **Ease-of-Use:** Simply drag and drop the widget where you want it to show and a new quote will appear every day.
 
 *   **Custom Title:** Choose a name for the widget to match your preference.
 
-*   **Category Selection:** With over 400 different topics to choose from, there’s something for everyone here. Own a finance blog? Show quotes about money. A relationship magazine? Quotes about dating, marriage, or love should have you covered. A forum for students? Education, teaching, learning, and college quotes will work wonderfully. Or maybe you’re having a hard time deciding on just one topic? Not a problem, just show them all.
+*   **Category Selection:** With over 400 different topics to choose from, there’s something for everyone here. Whether you run a tech blog, a relationship magazine, or a student forum. We’ve got quotes about money, love, education, optimism, success… you name it. Or maybe you’re having a hard time deciding on just one topic? Not a problem, there’s an option to include them all.
 
-*   **Beautiful Design:** We know how important it is to have a clean, well-designed website. Our daily quote widget will complement your theme’s aesthetics, rather than sticking out like an ugly, sore thumb.
+*   **Beautiful Design:** We know how important it is to have a clean, well-designed website. Our daily quote widget will complement your theme’s aesthetics, rather than diminish it.
 
 *   **Color Options:** Choose between dark, light, or orange.
 
@@ -68,10 +65,14 @@ In other words, we pay attention to the details, which means you can be confiden
 
 == Screenshots ==
 
-1. Image of the Quote of the Day with the light theme.
-2. The options for the Quote of the Day widget.
+1. Quote of the Day with the light theme.
+2. Options for the Quote of the Day widget.
 
 == Changelog ==
+
+= 1.0.2 =
+* Removed excessive source links.
+* Updated ReadMe File
 
 = 1.0.1 =
 * Updated text of widget

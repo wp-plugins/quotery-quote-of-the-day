@@ -7,20 +7,18 @@
 		<?php if ($instance['author']): ?>
 			<div class="quotery-quote-widget-author">
 				<div class="quotery-quote-widget-author-image">
-					<a href="<?php echo $author->url ?>" target="_blank" rel="nofollow" class="quotery-quote-widget-author-image-link">
 						<img src="<?php echo $author->image ?>" alt="<?php echo $author->name ?> <?php __('Image', $this->plugin_slug) ?>">
-					</a>
 				</div>
 				<div class="quotery-quote-widget-author-content">
 					<div class="quotery-quote-widget-author-name">
-						<a href="<?php echo $author->url ?>" target="_blank" rel="nofollow" class="quotery-quote-widget-author-name-link"><?php echo $author->name ?></a>
+						<?php echo $author->name ?>
 					</div>
 					<div class="quotery-quote-widget-author-lived"><?php echo $author->lived ?></div>
 				</div>
 			</div>
 		<?php endif ?>
 		<div class="quotery-quote-widget-quote">
-			<a href="<?php echo $share_url ?>" rel="nofollow" target="_blank" class="quotery-quote-widget-quote-link"><?php echo $quote ?></a>
+			<?php echo $quote ?>
 		</div>
 		<?php if ($instance['social']): ?>
 			<div class="quotery-quote-widget-social">
@@ -33,5 +31,5 @@
 			</div>
 		<?php endif ?>
 	</div>
-	<div class="quotery-quote-widget-copy"><?php _e('Quotes via', $this->plugin_slug) ?> <a href="http://www.quotery.com/?utm_source=wp-widget" target="_blank">Quotery.com</a></div>
+	<div class="quotery-quote-widget-copy"><?php _e('Quotes via', $this->plugin_slug) ?> <a href="http://www.quotery.com/?utm_source=wp-widget" target="_blank" rel="nofollow" >Quotery.com</a></div>
 </div>
