@@ -5,7 +5,7 @@
  * Plugin Name:       Quotery: Quote of the day
  * Plugin URI:        http://www.quotery.com
  * Description:       Display a "Quote of the Day" on your site. Features a beautiful design, social sharing, category selection, author photos & more.
- * Version:           1.0.4
+ * Version:           1.0.5
  * Author:            Quotery
  * Author URI:        http://www.quotery.com
  * License:           GPL-2.0+
