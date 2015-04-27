@@ -25,7 +25,7 @@ class Quotery_Quote {
 	 *
 	 * @var     string
 	 */
-	const VERSION 						= '1.0.4';
+	const VERSION 						= '1.0.5';
 
 	/**
 	 * Cache prefix
@@ -286,7 +286,7 @@ class Quotery_Quote {
 
 		$cache_name = 'quotery_qod_plugin_' . $category;
 
-		$expire 	= 60 * 30; // cache quote for 30 minutes
+		$expire 	= strtotime('tomorrow') - time(); // cache until next day
 
 		$url = $this->quotes_url . $category;
 
@@ -295,7 +295,7 @@ class Quotery_Quote {
 		} else {
 			$quote = get_transient($cache_name);
 		}
-		$quote = false;
+		// $quote = false;
 
 		if (false === $quote) {
 			$remote = wp_remote_get($url);
@@ -310,7 +310,7 @@ class Quotery_Quote {
 		return $quote;
 	}
 
-	public function get_categories($force_load = false)
+	public function get_categories($force_load = true)
 	{
 		$cache_name = 'quotery_qod_plugin_categories';
 		$expire 	= 60 * 30; // cache quote for 30 minutes
@@ -322,7 +322,7 @@ class Quotery_Quote {
 		}
 		if (false === $categories) {
 
-			$remote = wp_remote_get($this->quotes_categories_url);
+			$remote = wp_remote_get($this->quotes_categories_url . '?' . time());
 			$categories = json_decode($remote['body']);
 
 			if ($categories && $categories->type == 'success') {
@@ -365,6 +365,7 @@ class Quotery_Quote {
 			$quote = $quote_data->contents->quote->quote;
 			$author = $quote_data->contents->quote->author;
 			$share_url = $quote_data->contents->quote->share_url;
+			$follow = $quote_data->contents->follow;
 		} else {
 			$quote = __('Cannot fetch quote from source', $this->plugin_slug);
 			$instance['social'] = $instance['author'] = false;
