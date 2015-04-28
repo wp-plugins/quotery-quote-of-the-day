@@ -31,5 +31,5 @@
 			</div>
 		<?php endif ?>
 	</div>
-	<div class="quotery-quote-widget-copy"><?php _e('Quotes via', $this->plugin_slug) ?> <a href="http://www.quotery.com/?utm_source=wp-widget" target="_blank" <?php if(!empty($follow)): ?>rel="nofollow"<?php endif;?> >Quotery.com</a></div>
+	<div class="quotery-quote-widget-copy"><?php _e('Quotes via', $this->plugin_slug) ?> <a href="http://www.quotery.com/" target="_blank" <?php if(!empty($follow)): ?>rel="nofollow"<?php endif;?> >Quotery</a></div>
 </div>
