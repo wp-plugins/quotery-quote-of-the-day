@@ -3,7 +3,7 @@ Contributors: KAYL, Aaron Harun
 Tags: automatic, daily quote, quotations, quote, quote of the day, quotery, quotes, random quote, sidebar, widget
 Requires at least: 3.0
 Tested up to: 4.2.1
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,9 @@ Everyone loves a bit of wit, wisdom, humor, and inspiration. So why not give you
 2. The widget settings as seen in the WordPress dashboard.
 
 == Changelog ==
+
+= 1.0.7 =
+* Fixed code error
 
 = 1.0.6 =
 * Fixed code error
